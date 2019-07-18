@@ -1,0 +1,22 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+main{
+border: 2px black solid;
+padding: 20px 40px;
+margin: 10px;
+}
+
+#start-title{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+#intro-page{
+text-align: center;
+}
